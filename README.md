@@ -93,7 +93,7 @@ Combination of these shapes should use SVG multiply blending to achieve an "over
 | Page       | Education, stability            | `shapes/page.svg`                         |
 | Rattle     | Childishness, silliness         | `shapes/rattle.svg`                       |
 | Ring       | Openness, cohesion              | `shapes/ring.svg`                         |
-| Rod        | Subtlety, strength              | `sshapes/rod.svg`                         |
+| Rod        | Subtlety, strength              | `shapes/rod.svg`                          |
 | Seed       | Creativity, youth, future       | `shapes/seed.svg`                         |
 | Semicircle | Bravery, separation             | `shapes/semicircle.svg`                   |
 | Spot       | Dependability, quietness        | `shapes/spot.svg`                         |
