@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="322"
+   height="512"
+   viewBox="0 0 85.195827 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="bird.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="207.16019"
+     inkscape:cy="248.0398"
+     inkscape:window-width="634"
+     inkscape:window-height="698"
+     inkscape:window-x="716"
+     inkscape:window-y="54"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.290784"
+       d="M 3.0726349,47.11735 C 2.4300853,50.008823 14.317256,64.144914 14.959805,65.751288 15.602356,67.357662 5.6428333,82.457581 5.0002837,84.385231 4.3577363,86.312878 1.466262,96.914949 1.466262,98.842599 c 0,1.927651 -0.3212748,33.717491 0.6425485,35.002581 0.9638266,1.28511 9.3169715,-2.24892 10.9233455,-2.5702 1.606374,-0.32127 11.626873,-13.266 11.94815,-14.22982 0.321274,-0.96383 3.534023,-24.921101 4.176572,-26.527475 0.642551,-1.606378 7.328341,-14.147952 9.898538,-14.790502 2.570201,-0.642549 11.922804,3.271214 13.529178,4.235039 1.606374,0.963825 19.240859,12.776154 20.204683,12.776154 0.963824,0 5.666012,-9.281338 6.30857,-10.245162 0.642547,-0.963826 4.936048,-8.710054 4.936048,-9.995154 0,-1.285097 -16.385015,-6.104223 -17.670115,-6.746772 C 65.078682,65.108738 52.870237,54.50667 52.870237,53.22157 c 0,-1.285101 7.389323,-14.778643 8.67442,-15.421193 1.2851,-0.642551 14.457369,-10.923345 14.778648,-11.88717 C 76.644572,24.949383 82.7488,2.1388694 81.463694,1.1750449 80.178599,0.21122037 58.010635,10.492015 56.404261,11.134566 54.797885,11.777114 35.521395,26.234482 35.200121,27.840857 34.878844,29.447231 26.846975,45.189697 25.561875,46.796074 24.276775,48.402448 8.5343076,47.11735 3.0726349,47.11735 Z"
+       id="path1"
+       sodipodi:nodetypes="cssssssssssssssssssssc" />
+  </g>
+</svg>
