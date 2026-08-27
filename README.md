@@ -44,25 +44,25 @@ Colour is not a vehicle for meaning and should never be relied on as the only at
 
 > Traffic light colours cannot replace success/warning/error icons.
 
-| Token         | Used for                                      | Hex                                       | HSL                |
-| ------------- | --------------------------------------------- | ----------------------------------------- | ------------------ |
-| `paper`       | Flat backgrounds; dark mode text              | https://readme-swatches.vercel.app/fbf5e9 | hsl(40, 69%, 95%)  |
-| `ink`         | Text; dark mode flat backgrounds              | https://readme-swatches.vercel.app/26241f | hsl(43, 10%, 14%)  |
-| `maroon`      | Surfaces, dark backgrounds                    | https://readme-swatches.vercel.app/5a252b | hsl(353, 42%, 25%) |
-| `navy`        | Surfaces, dark backgrounds                    | https://readme-swatches.vercel.app/2d3d56 | hsl(217, 31%, 26%) |
-| `olive`       | Surfaces, dark backgrounds                    | https://readme-swatches.vercel.app/4a5230 | hsl(74, 26%, 25%)  |
-| `maroon-lift` | Surfaces, light backgrounds; dark mode maroon | https://readme-swatches.vercel.app/a84e58 | hsl(353, 37%, 48%) |
-| `navy-lift`   | Surfaces, light backgrounds; dark mode navy   | https://readme-swatches.vercel.app/5f7ba0 | hsl(214, 25%, 50%) |
-| `olive-lift`  | Surfaces, light backgrounds; dark mode olive  | https://readme-swatches.vercel.app/8a9857 | hsl(73, 27%, 47%)  |
-| `brick`       | Accented shapes; coloured fills               | https://readme-swatches.vercel.app/c1503b | hsl(9, 53%, 49%)   |
-| `butter`      | Accented shapes; coloured fills               | https://readme-swatches.vercel.app/f2c044 | hsl(43, 87%, 61%)  |
-| `sage`        | Accented shapes; coloured fills               | https://readme-swatches.vercel.app/7a9a6b | hsl(101, 19%, 51%) |
-| `verdigris`   | Accented shapes; coloured fills               | https://readme-swatches.vercel.app/2f8c80 | hsl(172, 50%, 37%) |
-| `ochre`       | Accented shapes; coloured fills               | https://readme-swatches.vercel.app/96602f | hsl(29, 52%, 39%)  |
-| `blush`       | Subtle shapes, light backgrounds, borders     | https://readme-swatches.vercel.app/efb3a8 | hsl(9, 69%, 80%)   |
-| `mist`        | Subtle shapes, light backgrounds, borders     | https://readme-swatches.vercel.app/c6d5d0 | hsl(160, 15%, 81%) |
-| `sand`        | Subtle shapes, light backgrounds, borders     | https://readme-swatches.vercel.app/c7b29f | hsl(28, 26%, 70%)  |
-| `slate`       | Subtle shapes, light backgrounds, borders     | https://readme-swatches.vercel.app/748a98 | hsl(203, 15%, 53%) |
+| Colour                                                                                                              | Token         | Hex      | HSL                |
+| ------------------------------------------------------------------------------------------------------------------- | ------------- | -------- | ------------------ |
+| <a href='#'><img valign='middle' alt='#fbf5e9' src='https://readme-swatches.vercel.app/fbf5e9?style=circle'/></a> | `paper`       | #fbf5e9 | hsl(40, 69%, 95%)  |
+| <a href='#'><img valign='middle' alt='#26241f' src='https://readme-swatches.vercel.app/26241f?style=circle'/></a> | `ink`         | #26241f | hsl(43, 10%, 14%)  |
+| <a href='#'><img valign='middle' alt='#5a252b' src='https://readme-swatches.vercel.app/5a252b?style=circle'/></a> | `maroon`      | #5a252b | hsl(353, 42%, 25%) |
+| <a href='#'><img valign='middle' alt='#2d3d56' src='https://readme-swatches.vercel.app/2d3d56?style=circle'/></a> | `navy`        | #2d3d56 | hsl(217, 31%, 26%) |
+| <a href='#'><img valign='middle' alt='#4a5230' src='https://readme-swatches.vercel.app/4a5230?style=circle'/></a> | `olive`       | #4a5230 | hsl(74, 26%, 25%)  |
+| <a href='#'><img valign='middle' alt='#a84e58' src='https://readme-swatches.vercel.app/a84e58?style=circle'/></a> | `maroon-lift` | #a84e58 | hsl(353, 37%, 48%) |
+| <a href='#'><img valign='middle' alt='#5f7ba0' src='https://readme-swatches.vercel.app/5f7ba0?style=circle'/></a> | `navy-lift`   | #5f7ba0 | hsl(214, 25%, 50%) |
+| <a href='#'><img valign='middle' alt='#8a9857' src='https://readme-swatches.vercel.app/8a9857?style=circle'/></a> | `olive-lift`  | #8a9857 | hsl(73, 27%, 47%)  |
+| <a href='#'><img valign='middle' alt='#c1503b' src='https://readme-swatches.vercel.app/c1503b?style=circle'/></a> | `brick`       | #c1503b | hsl(9, 53%, 49%)   |
+| <a href='#'><img valign='middle' alt='#f2c044' src='https://readme-swatches.vercel.app/f2c044?style=circle'/></a> | `butter`      | #f2c044 | hsl(43, 87%, 61%)  |
+| <a href='#'><img valign='middle' alt='#7a9a6b' src='https://readme-swatches.vercel.app/7a9a6b?style=circle'/></a> | `sage`        | #7a9a6b | hsl(101, 19%, 51%) |
+| <a href='#'><img valign='middle' alt='#2f8c80' src='https://readme-swatches.vercel.app/2f8c80?style=circle'/></a> | `verdigris`   | #2f8c80 | hsl(172, 50%, 37%) |
+| <a href='#'><img valign='middle' alt='#96602f' src='https://readme-swatches.vercel.app/96602f?style=circle'/></a> | `ochre`       | #96602f | hsl(29, 52%, 39%)  |
+| <a href='#'><img valign='middle' alt='#efb3a8' src='https://readme-swatches.vercel.app/efb3a8?style=circle'/></a> | `blush`       | #efb3a8 | hsl(9, 69%, 80%)   |
+| <a href='#'><img valign='middle' alt='#c6d5d0' src='https://readme-swatches.vercel.app/c6d5d0?style=circle'/></a> | `mist`        | #c6d5d0 | hsl(160, 15%, 81%) |
+| <a href='#'><img valign='middle' alt='#c7b29f' src='https://readme-swatches.vercel.app/c7b29f?style=circle'/></a> | `sand`        | #c7b29f | hsl(28, 26%, 70%)  |
+| <a href='#'><img valign='middle' alt='#748a98' src='https://readme-swatches.vercel.app/748a98?style=circle'/></a> | `slate`       | #748a98 | hsl(203, 15%, 53%) |
 
 ## Fonts
 
