@@ -99,6 +99,7 @@ Combination of these shapes should use SVG multiply blending to achieve an "over
 | Spot       | Dependability, quietness        | `shapes/spot.svg`                         |
 | Star       | Brilliance, innovation, respect | `shapes/star.svg`                         |
 | Tilde      | Exploration, uncertainty        | `shapes/tilde.svg`                        |
+| Zigzag     | Potential, faith                | `shapes/zigzag.svg`                       |
 
 Don't take these meanings too seriously. The shapes can go wherever they look good.
 
@@ -120,5 +121,5 @@ The logo lockup asset can be found at `logo/vcs-lockup.svg` in this repository. 
 
 An additional asset with the VCS's full name is at `logo/vcs-lockup-long.svg`. Instead of "VCS," it has "VOLUNTEER CODING SOCIETY" across two lines in `ink`, with "VOLUNTEER" slightly larger on the first line, and "CODING SOCIETY" slightly smaller on the second line.
 
-
+A banner version is also provided at `logo/vcs-banner.png`.
 
