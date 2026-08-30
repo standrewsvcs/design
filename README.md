@@ -111,11 +111,9 @@ The VCS logo is a combination of the Star shape in `brick` overprinted on the Sp
 
 ### Mark
 
-The logo mark asset can be found at `logo/vcs-mark.svg` in this repository.
+The logo mark asset can be found at `logo/vcs-mark.svg` in this repository. A pre-generated 512x512 PNG is at `logo/vcs-mark.png`. PNGs at additional resolutions can be generated from the SVG at any time.
 
 A pre-rendered logo with balanced padding on a `paper` background is at `logo/vcs-pfp.png`. This image should be used as the VCS's profile picture on social platforms such as Google, Instagram, etc.
-
-> Some SVG renderers do not support the multiply blend mode. An additional `logo/vcs-mark-flat.svg` is provided with the overprint pre-built as a separate path. Note that this asset cannot be re-edited.
 
 ### Lockup
 
