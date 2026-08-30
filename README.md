@@ -1,5 +1,7 @@
 # VCS Design
 
+"A student society where you can learn how to make real change with CS"
+
 St Andrews Volunteer Coding Society (VCS) design language document.
 
 | Section             | Last Updated |
