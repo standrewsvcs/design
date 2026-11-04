@@ -2,7 +2,7 @@
 
 "A student society where you can learn how to make real change with CS"
 
-St Andrews Volunteer Coding Society (VCS) design language document.
+St Andrews Volunteer Code Society (VCS) design language document.
 
 | Section             | Last Updated |
 | ------------------- | ------------ |
@@ -119,7 +119,7 @@ A pre-rendered logo with balanced padding on a `paper` background is at `logo/vc
 
 The logo lockup asset can be found at `logo/vcs-lockup.svg` in this repository. It features the VCS logo with the text "VCS" to the right of it in `ink`.
 
-An additional asset with the VCS's full name is at `logo/vcs-lockup-long.svg`. Instead of "VCS," it has "VOLUNTEER CODING SOCIETY" across two lines in `ink`, with "VOLUNTEER" slightly larger on the first line, and "CODING SOCIETY" slightly smaller on the second line.
+Additional assets with the VCS's full name are at `logo/vcs-lockup-long-{black,white}.svg`. Instead of "VCS," they has "VOLUNTEER CODE SOCIETY" across two lines in `ink` or `paper`, with "VOLUNTEER" slightly larger on the first line, and "CODE SOCIETY" slightly smaller on the second line.
 
 A banner version is also provided at `logo/vcs-banner.png`.
 
