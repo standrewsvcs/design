@@ -6,7 +6,7 @@ St Andrews Volunteer Code Society (VCS) design language document.
 
 | Section             | Last Updated |
 | ------------------- | ------------ |
-| [Ethos](#ethos)     | 2026-08-27   |
+| [Ethos](#ethos)     | 2026-11-19   |
 | [Colours](#colours) | 2026-08-27   |
 | [Fonts](#fonts)     | 2026-08-27   |
 | [Shapes](#shapes)   | 2026-08-27   |
@@ -32,7 +32,8 @@ The VCS uses certain design concepts to communicate our principles. VCS content 
 - **Text content.** Aim for a background contrast of at least 4.5:1 for all text. Write clearly and concisely, avoiding convoluted or long sentences. Ensure use of English is correct and understandable.
   - **Dates.** Follow an English format like "*Wednesday the 9th of September, 2026*." The name of the day of the week may be omitted.
   - **Times.** Follow a 12 hour format like "*2pm to 5pm*." For compatibility with screen readers, avoid using characters like dashes or hyphens to imply time ranges. 
-    - "*10-11am every day during the 2nd-21st of June*" is an example of a badly formatted date and time. A better format would be "*Every day from the 2nd to the 21st of June, from 10am to 11am*."
+    - An example of a badly formatted date and time is "*10-11am every day during the 2nd-21st of June*".
+    - A better format would be "*Every day from the 2nd to the 21st of June, from 10am to 11am*."
   - **Slang.** Avoid using slang words that some readers may not understand. When in doubt, choose the more common word.
 
 - **Audio content.** Avoid excessive noise in audio and ensure speech is clear and understandable. Keep speech to between 50 and 65 decibels (dB) and music under 60 dB. Never auto-play audio, except on platforms that implement their own setting to disable auto-play (e.g. Instagram).
@@ -44,7 +45,7 @@ The VCS uses certain design concepts to communicate our principles. VCS content 
 
 Colour is not a vehicle for meaning and should never be relied on as the only attribute conveying information. 
 
-> Traffic light colours cannot replace success/warning/error icons.
+Traffic light colours cannot replace success/warning/error icons.
 
 | Colour                                                                                                              | Token         | Hex      | HSL                |
 | ------------------------------------------------------------------------------------------------------------------- | ------------- | -------- | ------------------ |
@@ -115,11 +116,11 @@ The logo mark asset can be found at `logo/vcs-mark.svg` in this repository. A pr
 
 A pre-rendered logo with balanced padding on a `paper` background is at `logo/vcs-pfp.png`. This image should be used as the VCS's profile picture on social platforms such as Google, Instagram, etc.
 
+A banner version is also provided at `logo/vcs-banner.png`. It shows the VCS logo with the text "VCS" in `ink` on the right.
+
 ### Lockup
 
 The logo lockup asset can be found at `logo/vcs-lockup.svg` in this repository. It features the VCS logo with the text "VCS" to the right of it in `ink`.
 
-Additional assets with the VCS's full name are at `logo/vcs-lockup-long-{black,white}.svg`. Instead of "VCS," they has "VOLUNTEER CODE SOCIETY" across two lines in `ink` or `paper`, with "VOLUNTEER" slightly larger on the first line, and "CODE SOCIETY" slightly smaller on the second line.
-
-A banner version is also provided at `logo/vcs-banner.png`.
+Additional assets with the VCS's full name are at `logo/vcs-lockup-long-{black,white}.svg`. Instead of "VCS," they have "VOLUNTEER CODE SOCIETY" across two lines in `ink` or `paper`, with "VOLUNTEER" slightly larger on the first line, and "CODE SOCIETY" slightly smaller on the second line.
 
